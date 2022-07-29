@@ -1,3 +1,3 @@
 # PortfolioSite
 
-To View The Website : https://korayberk54.github.io/PortfolioSite/
+To View The Website : https://korayberk54.github.io/PortfolioSite/public/index.html
